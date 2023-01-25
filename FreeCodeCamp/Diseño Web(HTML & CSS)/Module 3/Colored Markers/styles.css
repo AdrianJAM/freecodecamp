@@ -6,14 +6,14 @@ h1{
     width: 200px;
     margin: 10px auto;
 }
-.one{
-    background-color: rgb(0, 0, 0);
+.red{
+    background: linear-gradient(180deg, rgb(122,74,14), rgb(245,62,113), rgb(162,27,27))
 }
-.two{
-    background-color: rgb(0, 0, 0);
+.green{
+    background: linear-gradient(180deg, #55680D,#71f53e, #116c31)
 }
-.three{
-    background-color: rgb(0, 0, 0);
+.blue{
+    background-color: hsl(240, 100%, 50%);
 }
 .container{
     background-color: rgb(255,255,255);
